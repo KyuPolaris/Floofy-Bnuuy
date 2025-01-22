@@ -2403,6 +2403,10 @@
     - Arachnic #change from Xeno  Floofstation
     understands:
     - Arachnic #change from Xeno  Floofstation
+    - Xeno
+  - type: FootstepModifier # Spider multi-step noise // TheDen
+    footstepSoundCollection:
+      collection: FootstepSpider
   - type: InteractionPopup
     successChance: 0.5
     interactSuccessString: petting-success-tarantula
