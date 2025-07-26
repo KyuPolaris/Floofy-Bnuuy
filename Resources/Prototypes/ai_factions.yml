@@ -30,7 +30,6 @@
 - type: npcFaction
   id: PetsNT
   hostile:
-  - Mouse
   - SimpleHostile
   - Zombie
   - Xeno

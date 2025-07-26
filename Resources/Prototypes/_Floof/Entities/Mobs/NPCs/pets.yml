@@ -50,6 +50,9 @@
     noMovementLayers:
       movement:
         state: midwife
+  - type: NpcFactionMember
+    factions:
+      - Mouse
   - type: DamageStateVisuals
     states:
       Alive:
