@@ -31,9 +31,13 @@
   id: PetsNT
   hostile:
   - SimpleHostile
+  - Mouse
   - Zombie
   - Xeno
   - Gorilla # Floof
+
+- type: npcFaction
+  id: Critter
 
 - type: npcFaction
   id: SimpleHostile
