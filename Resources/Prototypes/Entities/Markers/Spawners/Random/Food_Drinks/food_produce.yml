@@ -196,12 +196,3 @@
       - id: FoodHoneyComb # Frontier
         amount: !type:RangeNumberSelector # Frontier
           range: 1, 5 # Frontier
-    #rare
-    rarePrototypes:
-      - FoodBlueTomato
-      - FoodBloodTomato
-      - FoodAmbrosiaDeus
-      - FoodGalaxythistle
-      - FoodFlyAmanita
-      - DeathNettle
-    rareChance: 0.01
