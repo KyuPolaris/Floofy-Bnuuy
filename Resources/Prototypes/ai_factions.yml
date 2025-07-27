@@ -30,8 +30,8 @@
 - type: npcFaction
   id: PetsNT
   hostile:
-  - SimpleHostile
   - Mouse
+  - SimpleHostile
   - Zombie
   - Xeno
   - Gorilla # Floof
