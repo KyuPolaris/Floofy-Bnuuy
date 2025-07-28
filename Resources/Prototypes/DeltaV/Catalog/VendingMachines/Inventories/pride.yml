@@ -39,6 +39,27 @@
        ClothingNeckScarfStripedTrans: 2
        ClothingNeckScarfStripedLesbianLong: 2
 
+       ClothingHandsPrideAro: 2
+       ClothingUnderSocksPrideAro: 2
+       ClothingHandsPrideAce: 2       
+       ClothingUnderSocksPrideAce: 2
+       ClothingHandsPrideBi: 2
+       ClothingUnderSocksPrideBi: 2       
+       ClothingHandsPrideGay: 2
+       ClothingUnderSocksPrideGay: 2
+       ClothingHandsPrideInter: 2
+       ClothingUnderSocksPrideInter: 2       
+       ClothingHandsPrideLesbian: 2
+       ClothingUnderSocksPrideLesbian: 2       
+       ClothingHandsPrideNon: 2
+       ClothingUnderSocksPrideNon: 2       
+       ClothingHandsPridePan: 2
+       ClothingUnderSocksPridePan: 2       
+       ClothingHandsPrideRainbow: 2
+       ClothingUnderSocksPrideRainbow: 2       
+       ClothingHandsPrideTrans: 2
+       ClothingUnderSocksPrideTrans: 2
+
        ClothingHeadHatXmasCrown: 2
        BedsheetRainbow: 2
        ClothingUniformColorRainbow: 2
