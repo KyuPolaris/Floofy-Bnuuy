@@ -6899,3 +6899,111 @@ Entries:
   id: 726
   time: '2025-07-22T03:33:26.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1216
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Tweaked hypno examine text.
+  id: 727
+  time: '2025-07-26T15:30:17.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1246
+- author: RosySaturniidae
+  changes:
+    - type: Tweak
+      message: shadekin plushies mar now
+  id: 728
+  time: '2025-07-26T21:57:25.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1242
+- author: Karlm4x
+  changes:
+    - type: Add
+      message: Added Welding Gas Mask to CE's loadout options
+  id: 729
+  time: '2025-07-26T22:01:43.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1239
+- author: KyuPolaris
+  changes:
+    - type: Add
+      message: 'Sharks are now more ferocious (from Deathnerd on Wizden #31142)'
+  id: 730
+  time: '2025-07-26T22:08:45.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1243
+- author: ashkitten
+  changes:
+    - type: Fix
+      message: >-
+        Fixed another instance of The Rotation Bug that occurred when being
+        stunned or falling asleep while lying down
+  id: 731
+  time: '2025-07-26T23:10:04.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1211
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        Certain species can now choose to speak the languages of their
+        less-intelligent but similar animals (e.g. felinids can choose to speak
+        the cat language)
+    - type: Tweak
+      message: >-
+        Traits of the "natural language speaker" kind no longer take up trait
+        slots.
+  id: 732
+  time: '2025-07-26T23:19:59.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1206
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Some traits no longer use slots, namely languages and accents.
+  id: 733
+  time: '2025-07-27T17:43:51.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1249
+- author: KyuPolaris
+  changes:
+    - type: Tweak
+      message: Station Pets will no longer go Doomguy on small critters
+  id: 734
+  time: '2025-07-28T20:42:00.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1244
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added +1 Body Bag to Medicine Lockers
+  id: 735
+  time: '2025-07-28T20:45:10.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1250
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Succubus Trait
+  id: 736
+  time: '2025-07-28T20:58:34.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1083
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Freezer Recipes, Fireplace Recipe
+  id: 737
+  time: '2025-07-31T13:39:58.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1109
+- author: M3739
+  changes:
+    - type: Fix
+      message: The Slow Battery Drain, and Fast Battery Drain now behave as expected.
+    - type: Tweak
+      message: >-
+        'Marked For Death' cannot be taken by command members. No
+        double-dipping. In addition, anomalies can no longer take either Marked
+        trait.
+    - type: Fix
+      message: the "Dog Accent" was still borked, and has been unborked.
+    - type: Fix
+      message: Female shadekin should no longer laugh like a male shadekin.
+    - type: Fix
+      message: Cyber traits should now be properly restricted from prisoners.
+    - type: Tweak
+      message: Cyber-Eyes have had a bit of a rewrite for both clarity and flavor.
+    - type: Fix
+      message: Scugs can now be stripped again.
+  id: 738
+  time: '2025-07-31T13:50:47.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1230
