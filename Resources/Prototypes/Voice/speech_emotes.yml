@@ -121,14 +121,12 @@
   id: Chitter
   name: chat-emote-name-chitter
   category: Vocal
-  available: false
   icon: Interface/Emotes/chitter.png
   whitelist:
-    components:
-    - Vocal
-  blacklist:
     tags:
-      - SiliconEmotes
+    - HarpyEmotes
+    - ArachneEmotes
+  blacklist:
     components:
     - BorgChassis
   chatMessages: ["chat-emote-msg-chitter"]
@@ -157,14 +155,12 @@
   id: Click
   name: chat-emote-name-click
   category: Vocal
-  available: false
   icon: Interface/Emotes/click.png
   whitelist:
-    components:
-    - Vocal
-  blacklist:
     tags:
-      - SiliconEmotes
+    - HarpyEmotes
+    - ArachneEmotes
+  blacklist:
     components:
     - BorgChassis
   chatMessages: ["chat-emote-msg-click"]

@@ -193,6 +193,10 @@
       components:
         - type: Psionic
   requirements:
+    - !type:CharacterSpeciesRequirement
+      inverted: true
+      species:
+        - Arachne
     - !type:CharacterJobRequirement
       inverted: true
       jobs:
@@ -259,6 +263,10 @@
       psionicPowers:
         - TelepathyPower
   requirements:
+    - !type:CharacterSpeciesRequirement
+      inverted: true
+      species:
+        - Arachne
     - !type:CharacterJobRequirement
       inverted: true
       jobs:

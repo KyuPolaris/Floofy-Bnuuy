@@ -147,3 +147,8 @@ language-Eldritch-name = Eldritch
 language-Eldritch-description =
     A language that is considered to be long forgotten - now the only speakers of this profaned tongue of screeches and
     mumbles are the followers of an ancient God of Blood.
+
+language-GreatWeb-name = Silk-Speak
+language-GreatWeb-description =
+    A language spoken by those graced by the Great Web. Naturally spoken by Arachne across the galaxy,
+    allowing them to communicate telepathically when channeled correctly

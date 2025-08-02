@@ -25,7 +25,6 @@
     tags:
     - Hardsuit
     - WhitelistChameleon
-    - FullBodyOuter
     # HidesHarpyWings floof
   - type: ClothingRequiredStepTriggerImmune
     slots: WITHOUT_POCKET
@@ -51,7 +50,6 @@
     tags:
     - Hardsuit
     - WhitelistChameleon
-    - FullBodyOuter
 
 - type: entity
   parent: [ClothingOuterBaseLarge, AllowSuitStorageClothing]
@@ -119,7 +117,6 @@
       slots: WITHOUT_POCKET
     - type: Tag
       tags:
-        - FullBodyOuter
         - WhitelistChameleon
         # HidesHarpyWings floof
 
@@ -149,7 +146,6 @@
     slots: WITHOUT_POCKET
   - type: Tag
     tags:
-      - FullBodyOuter
       - WhitelistChameleon
       # HidesHarpyWings floof
 

@@ -11,6 +11,7 @@
     - ShadowkinEmotes
     - UnathiEmotes
     - ChitinidEmotes # Floof - M3739 - #726
+    - ArachneEmotes
   blacklist:
     tags:
       - SiliconEmotes

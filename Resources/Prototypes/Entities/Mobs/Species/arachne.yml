@@ -97,6 +97,21 @@
     requiredLegs: 8
   - type: Speech
     speechSounds: Alto
+  - type: Damageable
+    damageContainer: BiologicalMetaphysical
+    damageModifierSet: Arachne
+  - type: LanguageKnowledge
+    speaks:
+    - TauCetiBasic
+    - GreatWeb
+    understands:
+    - TauCetiBasic
+    - GreatWeb
+  - type: Vocal
+    sounds:
+      Male: MaleArachne
+      Female: FemaleArachne
+      Unsexed: MaleArachne
   - type: Inventory
     templateId: anytaur
     # femaleDisplacements: # Floof - displacements
@@ -111,9 +126,10 @@
     - FootstepSound
     - DoorBumpOpener
     - SpiderCraft
+    - ArachneEmotes
   - type: StepTriggerImmune
   - type: Bloodstream
-    bloodReagent: DemonsBlood
+    bloodReagent: SilkBlood
     bloodRegenerationThirst: 4 # 1 unit of demon's blood satiates 4 thirst
   - type: BloodSucker
     webRequired: true
@@ -141,6 +157,21 @@
     fireStackAlternateState: 3
   - type: Spider
   - type: IgnoreSpiderWeb
+  - type: Temperature
+    heatDamageThreshold: 355
+    coldDamageThreshold: 285
+    currentTemperature: 310.15
+    specificHeat: 42
+    coldDamage:
+      types:
+        Cold: 0.1 #per second, scales with temperature & other constants
+    heatDamage:
+      types:
+        Heat: 1.5 #per second, scales with temperature & other constants  
+  - type: Psionic
+  - type: InnatePsionicPowers
+    powersToAdd:
+      - TelepathyPower  
   - type: Sericulture      #   Floof change start
     action: ActionSericulture #  Floof
     productionLength: 2 # Floof

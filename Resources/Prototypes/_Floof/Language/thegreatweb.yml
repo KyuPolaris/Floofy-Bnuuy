@@ -1,0 +1,21 @@
+# Spoken by arachne.
+- type: language
+  id: GreatWeb
+  isVisibleLanguage: true
+  speech:
+    color: "#D10000"
+    fontId: Lymphatic
+    empathySpeech: true
+    speechVerbOverrides:
+    - chat-speech-verb-greatweb
+  obfuscation:
+    !type:SyllableObfuscation
+    minSyllables: 1 # Replacements are really short
+    maxSyllables: 2
+    replacement:
+    - mar
+    - mwrrr
+    - maaAr
+    - aarrr
+    - wrurrl
+    - mmar

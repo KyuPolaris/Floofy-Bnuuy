@@ -173,6 +173,7 @@ chat-speech-verb-electricity-2 = buzzes
 chat-speech-verb-electricity-3 = screeches
 
 chat-speech-verb-marish = Mars
+chat-speech-verb-greatweb = hisses
 
 chat-speech-verb-name-oldvox = Old-Kin
 chat-speech-verb-oldvox-1 = croaks

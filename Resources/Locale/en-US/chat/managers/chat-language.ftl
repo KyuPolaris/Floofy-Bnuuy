@@ -20,6 +20,7 @@ chat-language-Nehina-name = Nēhina
 chat-language-Kagebun-name = Kagebun
 # Floof
 chat-language-Sign-name = Sign language
+chat-language-GreatWeb-name = Silk-Speak
 
 # Animal Languages
 
