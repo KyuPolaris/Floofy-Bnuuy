@@ -380,6 +380,68 @@
         variation: 0.05
         volume: 4
 
+- type: entity
+  parent: PlushieHuman
+  id: PlushieRatLogisticsOfficer
+  name: rat logistics officer
+  description: This plushie smells like milk, the tag reads "Product of Donk Co."
+  components:
+  - type: Sprite
+    sprite: _Floof/Objects/Fun/floof_plush.rsi
+    state: ratgirl
+  - type: UseDelay
+    delay: 3.0
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+      params:
+        volume: 2
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/_Floof/Voice/Rodentia/Rat_Scream_01.ogg
+  - type: EmitSoundOnActivate
+    sound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+      params:
+        volume: 2
+  - type: MeleeWeapon
+    soundHit:
+      path: /Audio/_Floof/Voice/Rodentia/Rat_Scream_01.ogg
+      params:
+        variation: 0.05
+        volume: 4
+
+- type: entity
+  parent: PlushieHuman
+  id: PlushieBunnyChiefMedicalOfficer
+  name: bunny chief medical officer
+  description: This plushie smells like carrots and has an aura of non-violence
+  components:
+  - type: Sprite
+    sprite: _Floof/Objects/Fun/floof_plush.rsi
+    state: CMObun
+  - type: UseDelay
+    delay: 3.0
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+      params:
+        volume: 2
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/_Floof/Voice/Rodentia/Rat_Scream_01.ogg
+  - type: EmitSoundOnActivate
+    sound:
+      path: /Audio/Items/Toys/mousesqueek.ogg
+      params:
+        volume: 2
+  - type: MeleeWeapon
+    soundHit:
+      path: /Audio/_Floof/Voice/Rodentia/Rat_Scream_01.ogg
+      params:
+        variation: 0.05
+        volume: 4
+
 # Banned individual
 # - type: entity
 #   parent: PlushieHuman
