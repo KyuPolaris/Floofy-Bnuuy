@@ -88,3 +88,5 @@ trait-name-TraitorTeachTarget = Marked for Death
 trait-description-TraitorTeachTarget = Someone or something wants you taught a lesson. Traitors can recieve orders to kill you.
 # Target Consent Traits: End
 
+trait-name-Unlineaged = Unlineaged
+trait-description-Unlineaged = You are disgraced from your matron, and for this you have been disconnected from the great web. Removing all of your natural psionic powers

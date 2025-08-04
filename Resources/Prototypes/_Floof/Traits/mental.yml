@@ -28,3 +28,27 @@
         - !type:CharacterTraitRequirement
           traits:
             - AnomalousPositronics
+
+- type: trait
+  id: Unlineaged
+  category: Mental
+  points: 4
+  functions:
+    - !type:TraitRemoveComponent
+      components:
+        - type: Psionic
+    - !type:TraitRemovePsionics
+      psionicPowers:
+      - TelepathyPower
+  requirements:
+    - !type:CharacterSpeciesRequirement
+      species:
+        - Arachne
+    - !type:CharacterJobRequirement
+      inverted: true
+      jobs:
+        - Chaplain
+        - Librarian
+        - ForensicMantis
+        - ResearchDirector
+
