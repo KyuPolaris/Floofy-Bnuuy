@@ -36,6 +36,9 @@
   - Gorilla # Floof
 
 - type: npcFaction
+  id: Critter
+
+- type: npcFaction
   id: SimpleHostile
   friendly:
   - AnimalFriend
