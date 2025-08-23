@@ -187,6 +187,8 @@
   components:
     - type: Seed
       seedId: bees
+    - type: StaticPrice
+      price: 50
     - type: Sprite
       sprite: _NF/Objects/Specific/Hydroponics/bees.rsi
     - type: Damageable
