@@ -53,6 +53,15 @@
       - FoodCherry
     chance: 0.8
     offset: 0.0
+    #rare
+    rarePrototypes:
+      - FoodBlueTomato
+      - FoodBloodTomato
+      - FoodAmbrosiaDeus
+      - FoodGalaxythistle
+      - FoodFlyAmanita
+      - DeathNettle
+    rareChance: 0.01
   - type: EntityTableSpawner
     table: !type:NestedSelector
       tableId: ProduceTable
