@@ -5,7 +5,6 @@
   speech:
     color: "#D10000"
     fontId: Lymphatic
-    empathySpeech: true
     speechVerbOverrides:
     - chat-speech-verb-greatweb
   obfuscation:
@@ -13,9 +12,18 @@
     minSyllables: 1 # Replacements are really short
     maxSyllables: 2
     replacement:
-    - mar
-    - mwrrr
-    - maaAr
-    - aarrr
-    - wrurrl
-    - mmar
+    - cl'
+    - cl'
+    - tc'h
+    - tc'h
+    - ixl
+    - ch'itl
+    - iztla
+    - xiti
+    - tztli
+    - ztic'a
+    - tzi
+    - h'ss
+    - h'ss
+    - tzz
+    - tzz
