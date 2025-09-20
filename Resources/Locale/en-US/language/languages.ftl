@@ -151,4 +151,4 @@ language-Eldritch-description =
 language-GreatWeb-name = Silk-Speak
 language-GreatWeb-description =
     A language spoken by those graced by the Great Web. Naturally spoken by Arachne across the galaxy,
-    allowing them to communicate telepathically when channeled correctly
+    allowing them to communicate in a unique method of combining their mammalian and arachnic origins.
