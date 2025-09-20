@@ -146,6 +146,7 @@
     damage:
       types:
         Blunt: 0.05 #per second, scales with pressure and other constants. Reduced Damage. This allows medicine to heal faster than damage.
+  - type: NoSlip
   - type: MovementAlwaysTouching
   - type: MovementSpeedModifier
     baseWalkSpeed : 3.0
