@@ -1,8 +1,3 @@
-- type: soundCollection
-  id: AvaliScreams
-  files:
-    - /Audio/_Floof/Voice/Avali/avali_scream.ogg
-
 - type: emoteSounds
   id: MaleArachne
   params:
