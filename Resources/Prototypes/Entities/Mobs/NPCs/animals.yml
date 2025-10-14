@@ -858,7 +858,7 @@
   - type: Butcherable
     spawned:
     - id: FoodMeat
-      amount: 5
+      amount: 8
   - type: Grammar
     attributes:
       gender: female # Here because of UdderComponent
@@ -2478,6 +2478,8 @@
     - type: NpcFactionMember
       factions:
         - SimpleHostile #floof, makes tarantulas friendly to people with animal friend but not hostile to xenos which was their original faction
+    - type: NPCRetaliation # Vulpstation
+      attackMemoryLength: 20
     - type: InputMover
     - type: MobMover
     - type: HTN
@@ -2796,6 +2798,10 @@
   - type: Grammar
     attributes:
       gender: epicene
+  - type: Emoting # Floofstation
+  - type: Vocal # Floofstation
+    sounds:
+      Unsexed: Fox
   - type: Bloodstream
     bloodMaxVolume: 100
   - type: MeleeWeapon
@@ -2817,6 +2823,7 @@
   - type: Tag
     tags:
     - VimPilot
+    - VulpEmotes # Floof
   - type: LanguageKnowledge
     speaks:
     - Fox
@@ -2882,6 +2889,10 @@
   - type: Grammar
     attributes:
       gender: epicene
+  - type: Emoting # Floofstation
+  - type: Vocal # Floofstation
+    sounds:
+      Unsexed: Dog
   - type: SentienceTarget
     flavorKind: station-event-random-sentience-flavor-corgi
   - type: MobPrice
@@ -2889,6 +2900,7 @@
   - type: Tag
     tags:
     - VimPilot
+    - VulpEmotes # Floof
   - type: RandomBark
     barkType: dog
   - type: LeashAnchor # Floofstation
@@ -3568,7 +3580,7 @@
         Base: dead
   - type: Butcherable
     spawned:
-    - id: FoodMeat
+    - id: FoodMeatBacon
       amount: 6
   - type: Grammar
     attributes:
