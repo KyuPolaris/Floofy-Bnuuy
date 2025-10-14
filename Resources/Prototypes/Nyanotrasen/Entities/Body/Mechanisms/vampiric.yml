@@ -11,6 +11,18 @@
     - id: Drink
 
 - type: entity
+  id: OrganSpiderTaurStomach # Floof
+  parent: OrganVampiricHumanoidStomach
+  components:
+  - type: Metabolizer
+    # mm yummy
+    maxReagents: 3
+    metabolizerTypes: [Arachne]
+    groups:
+    - id: Food
+    - id: Drink
+
+- type: entity
   id: OrganVampiricStomach
   parent: OrganAnimalStomach
   components:

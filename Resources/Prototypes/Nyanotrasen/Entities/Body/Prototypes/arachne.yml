@@ -20,7 +20,7 @@
       organs:
         heart: OrganHumanHeart
         lungs: OrganHumanLungs
-        stomach: OrganVampiricHumanoidStomach
+        stomach: OrganSpiderTaurStomach
         liver:  OrganHumanLiver
         kidneys: OrganHumanKidneys
     right arm:
