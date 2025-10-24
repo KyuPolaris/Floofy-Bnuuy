@@ -1542,20 +1542,20 @@
     delay: 3.0
   - type: EmitSoundOnActivate
     sound:
-      path: /Audio/DeltaV/Vulpkanin/dog_bark1.ogg
+      collection: VulpkaninBarks
       params:
         volume: 2
   - type: EmitSoundOnUse
     sound:
-      path: /Audio/DeltaV/Vulpkanin/dog_bark1.ogg
+      collection: VulpkaninBarks
       params:
         volume: 2
   - type: EmitSoundOnLand
     sound:
-      path: /Audio/DeltaV/Vulpkanin/dog_bark1.ogg
+      collection: VulpkaninBarks
   - type: MeleeWeapon
     soundHit:
-      path: /Audio/DeltaV/Vulpkanin/dog_bark1.ogg
+      collection: VulpkaninBarks
       params:
         variation: 0.05
         volume: 4
