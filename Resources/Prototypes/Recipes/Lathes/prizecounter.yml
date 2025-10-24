@@ -1136,4 +1136,122 @@
   materials:
     PrizeTicket: 500
     
+- type: latheRecipe
+  id: MadScientistPlushie
+  result: MadScientistPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
 
+- type: latheRecipe
+  id: NotASpiderPlushie
+  result: NotASpiderPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: NTUnathiPlushie
+  result: NTUnathiPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: HappyParamedicPlushie
+  result: HappyParamedicPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: BraveCaptainPlushie
+  result: BraveCaptainPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: BlueCorpsmanShadekinPlushie
+  result: BlueCorpsmanShadekinPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: MedicalMothPlushie
+  result: MedicalMothPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: CheerfulQuadborgPlushie
+  result: CheerfulQuadborgPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: VampiricVulpkaninPlushie
+  result: VampiricVulpkaninPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: KindDetectivePlushie
+  result: KindDetectivePlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: MusicianRaccoonPlushie
+  result: MusicianRaccoonPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: SleepyHarpyPlushie
+  result: SleepyHarpyPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: GoblinPlushie
+  result: GoblinPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: MutantPlushie
+  result: MutantPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
+
+- type: latheRecipe
+  id: TwoTailedCommandPlushie
+  result: TwoTailedCommandPlushie
+  applyMaterialDiscount: false
+  completetime: 0.1
+  materials:
+    PrizeTicket: 100
