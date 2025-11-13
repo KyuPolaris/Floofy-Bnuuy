@@ -8313,3 +8313,170 @@ Entries:
   id: 885
   time: '2025-10-21T18:08:37.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1486
+- author: PhosphateWithManyOs
+  changes:
+    - type: Add
+      message: Pirate hat and coat are now available in the loadout (YARR!)
+  id: 886
+  time: '2025-10-29T11:36:54.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1382
+- author: ashkitten
+  changes:
+    - type: Fix
+      message: >-
+        Shaders will no longer fail to compile and crash the game on certain
+        system configurations.
+    - type: Fix
+      message: Hunger is now properly copied to Kitsune polymorph.
+    - type: Fix
+      message: >-
+        Doors are no longer blocked by intangible hitboxes like the portable
+        flasher.
+  id: 887
+  time: '2025-11-10T18:09:13.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1520
+- author: Mnemotechnician
+  changes:
+    - type: Tweak
+      message: Nerfed some of the new artifact effects.
+  id: 888
+  time: '2025-11-10T18:10:28.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1525
+- author: jack-thedragon95
+  changes:
+    - type: Fix
+      message: vox displacement maps now appear in game
+  id: 889
+  time: '2025-11-10T18:18:12.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1501
+- author: PubliclyExecutedPig
+  changes:
+    - type: Tweak
+      message: Reworked Asterisk Station's brig!
+  id: 890
+  time: '2025-11-11T17:41:37.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1504
+- author: Dunrab
+  changes:
+    - type: Tweak
+      message: >-
+        Submarine now has a full Justice department, better dorms & holopads.
+        See discord for the rest.
+  id: 891
+  time: '2025-11-11T23:24:42.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1485
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Tweaked more knives and swords to do more surgery things.
+  id: 892
+  time: '2025-11-12T14:31:12.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1522
+- author: Gaybritishcow
+  changes:
+    - type: Add
+      message: Added Ghee to Chefvend
+    - type: Add
+      message: Added Hotcross Bun & Meat Bun recipes.
+  id: 893
+  time: '2025-11-12T14:31:58.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1517
+- author: Raikyr0
+  changes:
+    - type: Remove
+      message: Removed extra winter boots from the medidrobe contraband list.
+  id: 894
+  time: '2025-11-12T14:32:41.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1511
+- author: ashkitten
+  changes:
+    - type: Add
+      message: Pens are clicky now.
+  id: 895
+  time: '2025-11-12T14:33:18.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1512
+- author: Dogbone10
+  changes:
+    - type: Tweak
+      message: Moths can now eat pills
+  id: 896
+  time: '2025-11-12T14:34:00.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1513
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: Fixed a bunch of coats to properly be resistant to the cold
+  id: 897
+  time: '2025-11-12T14:36:36.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1502
+- author: ItsDzordz
+  changes:
+    - type: Add
+      message: Added 2 new plushies
+  id: 898
+  time: '2025-11-12T14:37:56.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1491
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Fixed lotophagoi oil localization.
+  id: 899
+  time: '2025-11-12T14:38:51.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1497
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: You can now properly deconstruct bar counters.
+  id: 900
+  time: '2025-11-12T14:35:04.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1509
+- author: jack-thedragon95
+  changes:
+    - type: Add
+      message: ADDS VOX MASKS! GLORY TO THE SHOAL!
+  id: 901
+  time: '2025-11-12T14:47:21.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1474
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: >-
+        Added a medical breath mask to the Surgery bag. No more scrambling
+        around looking for one.
+  id: 902
+  time: '2025-11-12T14:35:49.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1510
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: >-
+        You ever want to shoot like an Oni? Yeah, me neither but I turned it
+        into a trait you can take.
+  id: 903
+  time: '2025-11-12T15:12:29.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1461
+- author: sprkl
+  changes:
+    - type: Add
+      message: More languages are now available to learn
+  id: 904
+  time: '2025-11-12T15:17:25.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1464
+- author: JFerrix
+  changes:
+    - type: Add
+      message: Added displacement map for arachne
+    - type: Tweak
+      message: Updated arachne prototype to work with the new map
+    - type: Fix
+      message: Fixed horrible arachne texture hirarchy and naming convention
+  id: 905
+  time: '2025-11-12T17:34:16.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1508
+- author: Jazun
+  changes:
+    - type: Add
+      message: Added a sound for blinking
+  id: 906
+  time: '2025-11-12T17:53:17.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1528

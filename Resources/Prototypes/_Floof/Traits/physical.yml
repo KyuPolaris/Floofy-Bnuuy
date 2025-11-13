@@ -288,3 +288,53 @@
   - !type:TraitModifySilicon
     batteryDrainModifier: -0.25 # Floof - M3739 - #1209 - Roughly 32 minutes on a medium capacity power cell.
     
+- type: trait # This just adds the Oni shooting malcus to anyone  
+  id: OniShooting
+  category: Physical
+  points: 6
+  requirements:
+    - !type:CharacterSpeciesRequirement 
+      inverted: true
+      species:
+      - Oni # already defaultly has this
+    - !type:CharacterJobRequirement
+      inverted: true
+      jobs:
+      - Borg
+      - MedicalBorg
+    - !type:CharacterTraitRequirement
+      inverted: true
+      traits:
+      - BadShooting
+  functions:
+    - !type:TraitAddComponent
+      components:
+      - type: PlayerAccuracyModifier
+        spreadMultiplier: 7.5
+        maxSpreadAngle: 90
+
+- type: trait
+  id: BadShooting
+  category: Physical
+  points: 2
+  slots: 0 # for flavor
+  requirements:
+    - !type:CharacterSpeciesRequirement 
+      inverted: true
+      species:
+      - Oni # already defaultly has this
+    - !type:CharacterJobRequirement
+      inverted: true
+      jobs:
+      - Borg
+      - MedicalBorg
+    - !type:CharacterTraitRequirement
+      inverted: true
+      traits:
+      - OniShooting
+  functions:
+    - !type:TraitAddComponent
+      components:
+      - type: PlayerAccuracyModifier
+        spreadMultiplier: 2.5
+        maxSpreadAngle: 90

@@ -2083,6 +2083,8 @@
       - GoblinPlushie
       - MutantPlushie
       - TwoTailedCommandPlushie
+      - PlushieBrashKitsune
+      - PlushieHarmlessCaptain
       #Floof Plushies - End
   - type: EmagLatheRecipes
     emagStaticRecipes:

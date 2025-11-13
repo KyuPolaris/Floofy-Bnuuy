@@ -134,6 +134,8 @@
         - GoblinPlushie
         - MutantPlushie
         - TwoTailedCommandPlushie
+        - PlushieBrashKitsune
+        - PlushieHarmlessCaptain
         # Floof Plushies End 
       chance: 0.5
       offset: 0.2
